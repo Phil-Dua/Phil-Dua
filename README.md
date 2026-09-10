@@ -6,7 +6,7 @@ Biomedical imaging and research software contributor focused on translating scie
 
 ### [TME-Quant](https://github.com/uw-loci/tme-quant) — Research Software Contributor
 
-TME-Quant is a Python translation of CurveAlign that unifies cell and collagen analysis in a modern Python package and napari plugin.
+TME-Quant is a Python translation of CurveAlign that unifies cell and collagen analysis in a modern Python package and Fiji/napari plugin.
 
 My contributions include:
 
